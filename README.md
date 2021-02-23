@@ -1,4 +1,10 @@
 # Dasmoto_project
-This is a Codecademy project using:
+
+## Description
+This is a Codecademy project to create a store website using:
 - HTML
 - CSS
+
+### What I learnt from this 
+- Semantic HTML
+- Styling with CSS
